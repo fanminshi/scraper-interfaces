@@ -14,7 +14,7 @@ COVID19-OSS is GPL-3.0 Licensed and accepts contributions via GitHub pull reques
 
 ## Reporting bugs and creating issues
 
-TODO
+Reporting bugs is one of the best ways to contribute. However, a good bug report has some very specific qualities, so please read over our short document on [reporting bugs][reporting-bug] before submitting a bug report. This document might contain links to known issues, another good reason to take a look there before reporting a bug.
 
 ## Contribution flow
 
@@ -77,3 +77,5 @@ The format can be described more formally as follows:
 <BLANK LINE>
 <footer>
 ```
+
+[reporting-bug]: ./Documentation/reporting-bugs.md
